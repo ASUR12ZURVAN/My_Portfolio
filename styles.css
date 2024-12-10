@@ -1,0 +1,15 @@
+*{
+    background-color: black;
+}
+
+.navbar-brand{
+    color: darkcyan;
+    font-weight: bold;
+}
+
+#Intro{
+    color:rgb(56, 165, 109);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+}
