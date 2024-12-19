@@ -2,14 +2,36 @@
     background-color: black;
 }
 
+.container-fluid{
+    display: felx;
+}
 .navbar-brand{
     color: darkcyan;
     font-weight: bold;
 }
 
-#Intro{
-    color:rgb(56, 165, 109);
+h1{
+    color:rgb(242, 242, 242);
     font-family: 'Times New Roman', Times, serif;
-    font-style: italic;
+    font-size: 80px;
     text-align: center;
+    display: flex;
+}
+
+.Blender-image{
+    width: 800px;
+    align-content: flex-start;
+    background-color: black;
+    display: flex;
+    border-color: azure;
+    border-width: 10px;
+}
+
+.content_Header{
+    text-align: left;
+    color:antiquewhite;
+    font-size: 40px;
+}
+.Body{
+    background-color: black;
 }
